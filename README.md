@@ -3,3 +3,4 @@
 ## - MongoDB Compass
 ## - Laragon Portable
 ## - Flowgorithm
+## - Sublime text
